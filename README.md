@@ -68,5 +68,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: Your_LinkedIn_Link
-- Email: your_email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ritesh-kumar-43a989285/
+- Email: riteshk9215@gmail.com
